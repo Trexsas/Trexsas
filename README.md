@@ -1,5 +1,2 @@
-- 👋 Yo, I’m Trexs
-- 👀 I'm a novice developer
-- 🌱 I’m currently learning ...
-- 💞️ My Dicord Gdaku#1998
-- 📫 Discord Group -> https://discord.gg/jJj9yRjjmd
+- 👋 Yo, I’m Almis
+- 💞️ My Dicord Almis#1178
